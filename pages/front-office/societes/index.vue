@@ -1,5 +1,5 @@
 <template>
-  <p>Liste des articles</p>
+  <p>Page de connexion</p>
 </template>
 
 <script>
